@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact schedule application</string>
+    <string name="agenda_de_contatos">Contact schedule</string>
+    <string name="adicionar_contatos">" Add contacts"</string>
+    <string name="contato">Contact</string>
+    <string name="inserir_nome_do_contato">Insert contact</string>
+    <string name="inserir_telefone_do_contato">Insert phone</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Phone</string>
+    <string name="salvar">Save</string>
+    <string name="lista_de_contatos">Contacts list</string>
+    <string name="toque_para_editar_arraste_para_os_lados_para_excluir">Touch to edit drag sideways to delete</string>
+    <string name="desenvolvido_por_lu_s_eduardo">developed by Luis Eduardo</string>
+    <string name="deletar_todos_contatos">Delete all contacts</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicativo de agenda</string>
+    <string name="agenda_de_contatos">Contactos</string>
+    <string name="adicionar_contatos">Añadir contactos</string>
+    <string name="contato">Contacto</string>
+    <string name="inserir_nome_do_contato">Insertar contactos</string>
+    <string name="inserir_telefone_do_contato">Insertar el teléfono</string>
+    <string name="nome">Nombre</string>
+    <string name="telefone">Teléfono</string>
+    <string name="salvar">Guardar contacto</string>
+    <string name="lista_de_contatos">Lista de contactos</string>
+    <string name="toque_para_editar_arraste_para_os_lados_para_excluir">Toque para editar, arrastre hacia los lados para eliminar</string>
+    <string name="desenvolvido_por_lu_s_eduardo">desarrolado por Luis Eduardo</string>
+    <string name="deletar_todos_contatos">Borrar todos los contactos</string>
+</resources>
